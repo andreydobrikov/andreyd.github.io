@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Andrey Dobrikov is a Lead Game Engineer at Turbo Studios.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Andrey Dobrikov is a Lead Game Engineer at Turbo Studios. At Turbo he is responsible for leading the client team on the first mobile game, Super Senso which is being published by Gungho.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[andrey@turbostuidos.com](mailto:[andrey@turbostuidos.com)
